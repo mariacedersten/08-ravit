@@ -1,0 +1,14 @@
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/bin/Debug/net8.0/ravit
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/bin/Debug/net8.0/ravit.deps.json
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/bin/Debug/net8.0/ravit.runtimeconfig.json
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/bin/Debug/net8.0/ravit.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/bin/Debug/net8.0/ravit.pdb
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/obj/Debug/net8.0/ravit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/obj/Debug/net8.0/ravit.AssemblyInfoInputs.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/obj/Debug/net8.0/ravit.AssemblyInfo.cs
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/obj/Debug/net8.0/ravit.csproj.CoreCompileInputs.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/obj/Debug/net8.0/ravit.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/obj/Debug/net8.0/refint/ravit.dll
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/obj/Debug/net8.0/ravit.pdb
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/obj/Debug/net8.0/ravit.genruntimeconfig.cache
+/Users/s2401554/Documents/portfolio/ohjelmointi/c-sharp-ohjelmointi/08-ravit/ravit/obj/Debug/net8.0/ref/ravit.dll
